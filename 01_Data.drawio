@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Pagina-1" id="HqEFIY8Ixfpq6p2nmuvZ">
-    <mxGraphModel dx="1047" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
         <mxCell id="Jud73O41q6U2xJTaW-qN-48" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="YcdJWzh3CdohWqu9yKCC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jud73O41q6U2xJTaW-qN-49" connectable="0" parent="Jud73O41q6U2xJTaW-qN-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1, N" vertex="1">
+        <mxCell id="Jud73O41q6U2xJTaW-qN-49" connectable="0" parent="Jud73O41q6U2xJTaW-qN-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0, N" vertex="1">
           <mxGeometry relative="1" x="-0.7779" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -120,7 +120,7 @@
         <mxCell id="Jud73O41q6U2xJTaW-qN-11" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Composizione" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="Jud73O41q6U2xJTaW-qN-23" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="Jud73O41q6U2xJTaW-qN-23" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="380" />
@@ -132,7 +132,7 @@
         <mxCell id="Jud73O41q6U2xJTaW-qN-19" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Dolce" vertex="1">
           <mxGeometry height="40" width="120" x="520" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="Jud73O41q6U2xJTaW-qN-22" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="YcdJWzh3CdohWqu9yKCC-4">
+        <mxCell id="Jud73O41q6U2xJTaW-qN-22" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;" target="YcdJWzh3CdohWqu9yKCC-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="380" />
@@ -148,7 +148,7 @@
         <mxCell id="Jud73O41q6U2xJTaW-qN-20" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Primo Piatto" vertex="1">
           <mxGeometry height="40" width="120" x="160" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="Jud73O41q6U2xJTaW-qN-24" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="Jud73O41q6U2xJTaW-qN-24" edge="1" parent="1" source="Jud73O41q6U2xJTaW-qN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="320" as="targetPoint" />
           </mxGeometry>
